@@ -1,0 +1,16 @@
+[display]
+
+window/size/mode=0
+window/size/borderless=false
+window/size/viewport_width=1887
+window/size/viewport_height=707
+window/stretch/mode="viewport"
+window/size/initial_position_type=1
+window/size/initial_screen=0
+window/size/initial_position=Vector2i(16, 137)
+
+[rendering]
+
+anti_aliasing/quality/msaa_2d=0
+renderer/rendering_method="forward_plus"
+rendering_device/driver.windows="vulkan"

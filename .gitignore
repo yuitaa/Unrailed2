@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!godot_settings.godot
+!keyboardremapsingle.txt
+!settingsFNA.txt
