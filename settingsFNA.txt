@@ -40,3 +40,4 @@ AutoOpenControlDrawer False
 EmojiList :Pickaxe,:Axe,:Track,:Bucket,Dynamite,:Restock,:Restock,:AFK,Pickaxe,Axe,Track,Bucket,Dynamite,Wagon_Upgrade,Flag,Restock,TrackNo,Ducky,Checkmark,Cross,Versus,Torpedo,Bomb,Scroll,ThumbsUp,ThumbsDown,Wood,Iron,Hearteyes,Smile,Question,Warning,Stopwatch1,Stopwatch5,GG,Thinking,Sad,Angry,Scream,Huaji
 AlwaysShowUserHearts False
 UseSimpleBackground False
+CrossplayEnabled False
